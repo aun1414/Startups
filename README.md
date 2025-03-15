@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Pitchify: Your Startup Idea Platform  
 
-## Getting Started
+### A Next.js 15-powered hub for entrepreneurs to showcase their startup ideas, participate in virtual pitch competitions, and gain visibility in a dynamic and engaging community. Browse, submit, and explore innovative ideas—all within a sleek, minimalistic interface designed for an effortless user experience.  
 
-First, run the development server:
+💡 **Need help?** Join our active **Discord community of 34,000+ members**, where developers and founders collaborate, troubleshoot, and share insights.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Tech Stack  
+- **React 19**  
+- **Next.js 15**  
+- **Sanity** (for content management)  
+- **TailwindCSS** (for styling)  
+- **ShadCN** (for UI components)  
+- **TypeScript**  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔥 Key Features  
 
-## Learn More
+✅ **Real-Time Content Updates** – Startup pitches appear dynamically on the homepage, thanks to **Sanity's Content API**.  
 
-To learn more about Next.js, take a look at the following resources:
+✅ **GitHub Authentication** – Sign in with your **GitHub** account for seamless access.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ **Submit a Pitch** – Share your startup idea by adding a title, description, category, and multimedia (images/videos).  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✅ **Explore Startup Pitches** – Browse submitted ideas and filter them by category.  
 
-## Deploy on Vercel
+✅ **Detailed Pitch View** – Click on any pitch to see its full details, complete with multimedia and descriptions.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+✅ **Personalized Profile Page** – View and manage the pitches you’ve submitted in one place.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✅ **View Counter** – Tracks pitch views instead of an upvote system, giving a transparent look at engagement.  
+
+
+Plus, we leverage the latest features of **React 19, Next.js 15, and Sanity** to ensure modern development practices, scalability, and reusability in our code.  
+
+---
+
+## ⚡ Quick Setup Guide  
+
+Follow these steps to get **Pitchify** up and running on your local machine.  
+
+### Prerequisites  
+Ensure you have the following installed before proceeding:  
+✔ **Git**  
+✔ **Node.js**  
+✔ **npm** (Node Package Manager)  
+
+### Clone the Repository  
+Run the following command in your terminal to clone the project:  
+```sh
+git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
+cd pitchify
