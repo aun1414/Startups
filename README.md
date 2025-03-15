@@ -18,20 +18,35 @@
 
 ✅ **Real-Time Content Updates** – Startup pitches appear dynamically on the homepage, thanks to **Sanity's Content API**.  
 
+![Loggout](https://github.com/user-attachments/assets/765d7380-7596-4864-b8fb-bc274fc12e55)
+
+
 ✅ **GitHub Authentication** – Sign in with your **GitHub** account for seamless access.  
+
+![Home page](https://github.com/user-attachments/assets/347f2c7f-d142-48de-a5d3-45118ef79540)
+
 
 ✅ **Submit a Pitch** – Share your startup idea by adding a title, description, category, and multimedia (images/videos).  
 
-✅ **Explore Startup Pitches** – Browse submitted ideas and filter them by category.  
+![Create](https://github.com/user-attachments/assets/c46bba27-c72c-4d99-811b-95864dcda403)
+
+
+✅ **Explore Startup Pitches** – Browse submitted ideas.  
+
+![Searching startup](https://github.com/user-attachments/assets/1a78049c-2683-413a-8cd1-cb4a34cb0a55)
+
 
 ✅ **Detailed Pitch View** – Click on any pitch to see its full details, complete with multimedia and descriptions.  
 
+![Details](https://github.com/user-attachments/assets/1371f0f3-c783-4ec6-b3ed-eb8c45c70978)
+
+
 ✅ **Personalized Profile Page** – View and manage the pitches you’ve submitted in one place.  
 
-✅ **View Counter** – Tracks pitch views instead of an upvote system, giving a transparent look at engagement.  
+![Profile](https://github.com/user-attachments/assets/adfaca9f-9cf4-4fcb-8729-9fd94bc7a456)
 
 
-Plus, we leverage the latest features of **React 19, Next.js 15, and Sanity** to ensure modern development practices, scalability, and reusability in our code.  
+✅ **View Counter** – Tracks pitch views.  
 
 ---
 
