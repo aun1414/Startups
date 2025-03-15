@@ -48,9 +48,9 @@ Ensure you have the following installed before proceeding:
 ### Clone the Repository  
 
 Run the following command in your terminal to clone the project:  
-```sh
+
 git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
-cd pitchify```
+cd pitchify
 
 ### Install Dependencies
 npm install
