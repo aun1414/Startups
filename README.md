@@ -18,32 +18,32 @@
 
 ✅ **Real-Time Content Updates** – Startup pitches appear dynamically on the homepage, thanks to **Sanity's Content API**.  
 
-![Loggout](https://github.com/user-attachments/assets/765d7380-7596-4864-b8fb-bc274fc12e55)
+![Logout](https://github.com/user-attachments/assets/e78f2306-51da-441a-8eb8-62be2325a438)
 
 
 ✅ **GitHub Authentication** – Sign in with your **GitHub** account for seamless access.  
 
-![Home page](https://github.com/user-attachments/assets/347f2c7f-d142-48de-a5d3-45118ef79540)
+![Logout](https://github.com/user-attachments/assets/4a882830-600d-42ab-85af-e2dce8b24b5d)
 
 
 ✅ **Submit a Pitch** – Share your startup idea by adding a title, description, category, and multimedia (images/videos).  
 
-![Create](https://github.com/user-attachments/assets/c46bba27-c72c-4d99-811b-95864dcda403)
+![Create](https://github.com/user-attachments/assets/8c265669-8643-482f-80d5-a7a8e8096fc7)
 
 
 ✅ **Explore Startup Pitches** – Browse submitted ideas.  
 
-![Searching startup](https://github.com/user-attachments/assets/1a78049c-2683-413a-8cd1-cb4a34cb0a55)
+![Search](https://github.com/user-attachments/assets/7203d47b-1f80-4463-86ec-b3b14ba5c605)
 
 
 ✅ **Detailed Pitch View** – Click on any pitch to see its full details, complete with multimedia and descriptions.  
 
-![Details](https://github.com/user-attachments/assets/1371f0f3-c783-4ec6-b3ed-eb8c45c70978)
+![Details](https://github.com/user-attachments/assets/c55a295b-1b7c-4178-a8ae-1ab2ced9f5cc)
 
 
 ✅ **Personalized Profile Page** – View and manage the pitches you’ve submitted in one place.  
 
-![Profile](https://github.com/user-attachments/assets/adfaca9f-9cf4-4fcb-8729-9fd94bc7a456)
+![Profile](https://github.com/user-attachments/assets/1de1441e-9436-4bb1-bd0a-ecbfd19e7791)
 
 
 ✅ **View Counter** – Tracks pitch views.  
