@@ -49,13 +49,13 @@ Ensure you have the following installed before proceeding:
 
 Run the following command in your terminal to clone the project:  
 
-git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
+git clone https://github.com/aun1414/Startups.git
 cd pitchify
 
 ### Install Dependencies
 npm install
 
-###Set Up Environment Variables
+### Set Up Environment Variables
 
 Create a new file named .env.local in the root of your project and add the following content:
 
@@ -69,7 +69,7 @@ AUTH_GITHUB_ID=
 AUTH_GITHUB_SECRET=
 Replace the placeholder values with your actual Sanity credentials. You can obtain these credentials by signing up & creating a new project on the Sanity website.
 
-###Running the project
+### Running the project
 
 npm run dev
 
