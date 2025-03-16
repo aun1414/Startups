@@ -2,6 +2,9 @@ import {withSentryConfig} from "@sentry/nextjs";
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  sentry: {
+    allowedDevOrigins: ["https://george-washington-university.sentry.io"],
+  },
   /* config options here */
   images: {
     dangerouslyAllowSVG: true,
