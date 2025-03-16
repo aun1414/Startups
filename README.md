@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Pitchify: Your Startup Idea Platform  
 
-## Getting Started
+### A Next.js 15-powered hub for entrepreneurs to showcase their startup ideas, participate in virtual pitch competitions, and gain visibility in a dynamic and engaging community. Browse, submit, and explore innovative ideas—all within a sleek, minimalistic interface designed for an effortless user experience.  
 
-First, run the development server:
+---
 
-```bash
+## ⚙️ Tech Stack  
+- **React 19**  
+- **Next.js 15**  
+- **Sanity** (for content management)  
+- **TailwindCSS** (for styling)  
+- **ShadCN** (for UI components)  
+- **TypeScript**  
+
+---
+
+## 🔥 Key Features  
+
+✅ **Real-Time Content Updates** – Startup pitches appear dynamically on the homepage, thanks to **Sanity's Content API**.  
+
+![Logout](https://github.com/user-attachments/assets/e78f2306-51da-441a-8eb8-62be2325a438)
+
+
+✅ **GitHub Authentication** – Sign in with your **GitHub** account for seamless access.  
+
+![Logout](https://github.com/user-attachments/assets/4a882830-600d-42ab-85af-e2dce8b24b5d)
+
+
+✅ **Submit a Pitch** – Share your startup idea by adding a title, description, category, and multimedia (images/videos).  
+
+![Create](https://github.com/user-attachments/assets/8c265669-8643-482f-80d5-a7a8e8096fc7)
+
+
+✅ **Explore Startup Pitches** – Browse submitted ideas.  
+
+![Search](https://github.com/user-attachments/assets/7203d47b-1f80-4463-86ec-b3b14ba5c605)
+
+
+✅ **Detailed Pitch View** – Click on any pitch to see its full details, complete with multimedia and descriptions.  
+
+![Details](https://github.com/user-attachments/assets/c55a295b-1b7c-4178-a8ae-1ab2ced9f5cc)
+
+
+✅ **Personalized Profile Page** – View and manage the pitches you’ve submitted in one place.  
+
+![Profile](https://github.com/user-attachments/assets/1de1441e-9436-4bb1-bd0a-ecbfd19e7791)
+
+
+✅ **View Counter** – Tracks pitch views.  
+
+---
+
+## ⚡ Quick Setup Guide  
+
+Follow these steps to get **Pitchify** up and running on your local machine.  
+
+### Prerequisites  
+Ensure you have the following installed before proceeding:  
+✔ **Git**  
+✔ **Node.js**  
+✔ **npm** (Node Package Manager)  
+
+### Clone the Repository  
+
+Run the following command in your terminal to clone the project:  
+
+git clone https://github.com/aun1414/Startups.git
+cd pitchify
+
+### Install Dependencies
+npm install
+
+### Set Up Environment Variables
+
+Create a new file named .env.local in the root of your project and add the following content:
+
+NEXT_PUBLIC_SANITY_PROJECT_ID=
+NEXT_PUBLIC_SANITY_DATASET=
+NEXT_PUBLIC_SANITY_API_VERSION='vX'
+SANITY_TOKEN=
+
+AUTH_SECRET= 
+AUTH_GITHUB_ID=
+AUTH_GITHUB_SECRET=
+Replace the placeholder values with your actual Sanity credentials. You can obtain these credentials by signing up & creating a new project on the Sanity website.
+
+### Running the project
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
