@@ -45,6 +45,12 @@
 
 ![Profile](https://github.com/user-attachments/assets/1de1441e-9436-4bb1-bd0a-ecbfd19e7791)
 
+✅ **Sentry Bug reports** – Can report a bug within the app
+  
+![Bug](https://github.com/user-attachments/assets/0c13f202-8948-4739-9fa7-e4c9d134e1d0)
+
+![Bug2](https://github.com/user-attachments/assets/f3d8e1b4-0871-4b4b-9a88-083842ed7c1f)
+
 
 ✅ **View Counter** – Tracks pitch views.  
 
